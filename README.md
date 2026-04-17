@@ -1,16 +1,51 @@
-# React + Vite
+# VerbalizeIt – Modern Language Learning Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🚀 Overview
 
-Currently, two official plugins are available:
+## VerbalizeIt is a clean, modern, and responsive landing page designed for a language learning platform. It focuses on user engagement, clarity, and conversion using a minimal and attractive UI.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📸Live Preview : [Click Here](https://verbalizelt-language-learning-webap.vercel.app/)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the ESLint configuration
+- Responsive design (mobile-first)
+- Clean and modern UI/UX
+- Hero section with CTA
+- Feature showcase section
+- Statistics & global reach section
+- App download CTA
+- Footer with useful links
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- ReactJS
+- JavaScript
+- HTML5
+- Tailwind CSS
+- CSS3
+- Daisy UI
+
+## 📱 Sections Included
+
+- Navbar
+- Hero Section
+- Features Section
+- Learning Benefits
+- Global Stats Section
+- App Download CTA
+- Footer
+
+## 🎯 Purpose
+
+This project demonstrates frontend development skills, layout structuring, and responsive design techniques for real-world landing pages.
+
+## 📌 Future Improvements
+
+- Backend for user authentication
+- Dynamic content loading
+
+## 🤝 Contributing
+
+- Contributions are welcome! Feel free to fork this repo and submit a pull request.
