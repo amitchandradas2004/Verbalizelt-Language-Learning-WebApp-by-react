@@ -38,7 +38,7 @@ const Hero = () => {
         </div>
       </div>
 
-      <div class="flex flex-col md:flex-row justify-between gap-8 items-center mt-5">
+      <div class="flex flex-col md:flex-row justify-between gap-8 items-center my-5">
         <div class="left flex justify-between gap-45 items-center">
           <div class="relative">
             <img src={img1} />
@@ -57,7 +57,8 @@ const Hero = () => {
           <img src={linkdin} class="w-15" />
           <img src={zoom} class="w-15" />
         </div>
-      </div>
+      </div> 
+      <hr />
     </div>
   );
 };
