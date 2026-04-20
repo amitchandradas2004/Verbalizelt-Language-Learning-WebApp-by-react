@@ -1,4 +1,5 @@
 import "./App.css";
+import Footer from "./Components/Footer/Footer";
 import Hero from "./Components/Hero/Hero";
 import Learn from "./Components/Learn/Learn";
 import Learning from "./Components/Learning/Learning";
@@ -13,6 +14,7 @@ function App() {
       <Learning></Learning>
       <NewLanguage></NewLanguage>
       <Learn></Learn>
+      <Footer></Footer>
     </>
   );
 }
