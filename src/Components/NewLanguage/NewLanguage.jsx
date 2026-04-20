@@ -4,7 +4,7 @@ const NewLanguage = () => {
   return (
     <div className="container mx-auto px-2 md:px-0">
       <div className="text-center space-y-4 py-5">
-        <h2 className="text-6xl lg:text-7xl font-bold">
+        <h2 className="text-6xl lg:text-7xl font-bold select-none">
           Learn a new language the fun way
         </h2>
         <p className="text-xl font-medium">
@@ -12,7 +12,7 @@ const NewLanguage = () => {
         </p>
       </div>
       <div className="py-5">
-        <img src={Global} className="w-[80%] mx-auto" />
+        <img src={Global} className="w-[80%] mx-auto select-none" />
       </div>
       <div className="grid grid-cols-1 md:grid-cols-3 gap-5 px-5 md:px-0">
         <div className="text-center border border-gray-300 rounded-2xl p-5 bg-gray-100 transition hover:-translate-y-0.5 space-y-3 shadow-yellow-200 shadow-sm">

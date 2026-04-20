@@ -11,7 +11,7 @@ import linkdin from "../../assets/linkdin.png";
 import zoom from "../../assets/zoom.png";
 const Hero = () => {
   return (
-    <div className="container mx-auto mt-15 ">
+    <div className="container mx-auto mt-15 select-none">
       <div className="flex flex-col md:flex-row justify-between items-center gap-5 px-2 md:px-0">
         <div className="space-y-4 w-full md:w-2/3">
           <h3 className="text-7xl md:text-8xl font-bold leading-[90px] tracking-tight">
@@ -57,7 +57,7 @@ const Hero = () => {
           <img src={linkdin} class="w-15" />
           <img src={zoom} class="w-15" />
         </div>
-      </div> 
+      </div>
       <hr />
     </div>
   );
